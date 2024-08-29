@@ -8,7 +8,7 @@ const Home: React.FC = (): JSX.Element => {
                 <div className='welcome-msg'>
                     <p className='fs13 intro'>Hi there &#128075; my name is</p>
                     <p className=''><span className='fs30 name'>Mounika Mamidala.</span> </p>
-                    <p className='fs15 position'>I am an enthusiast Front End Developer.</p>
+                    <p className='fs15 position'>I am an enthusiast FrontEnd Developer.</p>
                     <p className='fs12 greeting'>
                         Welcome to my portfolio. I designed this website using the basic Create React App setup and enhanced my styling with Sass for better scalability and maintainability.
                         I researched various portfolio websites for design inspiration. Notably, I did not use any CSS libraries. The color scheme
@@ -27,7 +27,7 @@ const Home: React.FC = (): JSX.Element => {
                 </div>
                 <div className='intro-image'>
                     <div className='image-wrapper'>
-                        <img src='./Mamidala_Mounika_Photo.JPG' className='profile-photo' />
+                        <img src='./Mamidala_Mounika_Photo.JPG' className='profile-photo' alt='Mounika Mamidala'/>
                     </div>
                 </div>
             </div>

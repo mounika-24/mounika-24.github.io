@@ -9,7 +9,7 @@
 
         .nav-item {
             align-self: center;
-            margin: 0 2rem;
+            margin: 0 1.5rem;
         }
 
         .head-logo {
@@ -83,7 +83,7 @@
     background-color: var(--primary-div-color);
     width: 65vw;
     height: 100vh;
-    padding: 1.5rem 1rem;
+    padding: 1rem 1rem 1.5rem;
     right: -100%;
     transition: 800ms;
     color: var(--button-color);
